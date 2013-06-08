@@ -7,7 +7,7 @@ Do you want to have some simple tool that make the Gantt chart just as easy as u
 
 It's just a simple Excel file with excel macro to help you simplified drawing Gantt chart.
 
-Just give the start date and end date, it will draw the time bar for you.
+Just give the start date and the end date, it will draw the time bar for you.
 If the date axis more than it currently have, just press the *Redraw All* button to generate the corresponding Month axis for you.
 
 If you want to have a colorful life, just change the text color in your project item.
